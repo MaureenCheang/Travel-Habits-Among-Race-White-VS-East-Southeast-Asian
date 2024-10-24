@@ -8,12 +8,14 @@ This dataset is provided by CRG. Context Research Group is a recognized member o
 
 ## Research Questions
 This project analyzed on several key questions to provide insighs in travel habits among races:
-What is the sample distribution?
-What is the annual income level before tax among these two races?
-How important is 'Green Economy' when making choice of leisure travel destination?
-What is the primary factor influencing getaway choices?
-Which activites would be interested in participating for the next leisure travel trip?(multiple select)
-what is your preferred duration for the next leisure travel trip?
+
+
+- What is the sample distribution?
+- What is the annual income level before tax among these two races?
+- How important is 'Green Economy' when making choice of leisure travel destination?
+- What is the primary factor influencing getaway choices?
+- Which activites would be interested in participating for the next leisure travel trip?(multiple select)
+- what is your preferred duration for the next leisure travel trip?
 
 ## Key Insights
 - 73% of participants are White, while 10% are East/Southeast Asian, indicating an overrepresentation of White respondents. This demographic imbalance may influence the overall findings and interpretations.
